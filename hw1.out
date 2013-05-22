@@ -1,0 +1,25 @@
+Static strategy
+1 cores
+Time: 22.350000 s.
+2 cores
+Time: 11.200000 s.
+4 cores
+Time: 10.310000 s.
+8 cores
+Time: 8.110000 s.
+16 cores
+Time: 4.830000 s.
+32 cores
+Time: 2.520000 s.
+Dynamic strategy, Chunk Size is 10000
+Dynamic strategy should need at least 2 cores.
+2 cores
+Time: 22.600000 s.
+4 cores
+Time: 7.720000 s.
+8 cores
+Time: 3.800000 s.
+16 cores
+Time: 2.660000 s.
+32 cores
+Time: 2.110000 s.
